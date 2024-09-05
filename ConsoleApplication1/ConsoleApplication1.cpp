@@ -11,7 +11,9 @@ void summ(int a,int b) {
 
 int main()
 {
-    
+    int a = 10, b = 5;
+    summ(a, b);
+    summ;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
