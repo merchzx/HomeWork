@@ -2,10 +2,16 @@
 //
 
 #include <iostream>
+using namespace std;
+
+void summ(int a,int b) {
+
+    cout<< a + b;
+}
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
